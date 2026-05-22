@@ -62,10 +62,10 @@ console.log('Age is more than 18 : '+ ageMoreThan18_4)
 
  //FUNCTIONS
 
- function product (a,b){
+function product (a,b){
     return a*b
  }
- let result = product(5,4)
+ let result = product(5,4) 
  console.log("The Product of a and b is : " + result)
 
 
